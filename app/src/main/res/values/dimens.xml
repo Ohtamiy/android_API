@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detailsTitleTextSize">20sp</dimen>
+    <dimen name="detailsTitleMarginTop">16sp</dimen>
+    <dimen name="detailsTextSize">16sp</dimen>
+    <dimen name="detailsMarginTop">12sp</dimen>
+    <dimen name="itemCountryPadding">12dp</dimen>
+</resources>

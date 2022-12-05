@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ships_mvvm</string>
+    <string name="action_settings">Settings</string>
+    <string name="ship">Ship</string>
+    <string name="empty">Empty</string>
+    <string name="error">Error</string>
+</resources>
